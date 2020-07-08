@@ -5,3 +5,16 @@
 
 *.lib
 *.a
+Source/ThirdParty/CubismLibrary/dll/android/arm64-v8a/libLive2DCubismCore.so
+Source/ThirdParty/CubismLibrary/dll/android/armeabi-v7a/libLive2DCubismCore.so
+Source/ThirdParty/CubismLibrary/dll/android/x86/libLive2DCubismCore.so
+Source/ThirdParty/CubismLibrary/dll/experimental/rpi/libLive2DCubismCore.so
+Source/ThirdParty/CubismLibrary/dll/experimental/uwp/arm/Live2DCubismCore.dll
+Source/ThirdParty/CubismLibrary/dll/experimental/uwp/arm64/Live2DCubismCore.dll
+Source/ThirdParty/CubismLibrary/dll/experimental/uwp/x64/Live2DCubismCore.dll
+Source/ThirdParty/CubismLibrary/dll/experimental/uwp/x86/Live2DCubismCore.dll
+Source/ThirdParty/CubismLibrary/dll/linux/x86_64/libLive2DCubismCore.so
+Source/ThirdParty/CubismLibrary/dll/macos/libLive2DCubismCore.dylib
+Source/ThirdParty/CubismLibrary/dll/macos/Live2DCubismCore.bundle
+Source/ThirdParty/CubismLibrary/dll/windows/x86/Live2DCubismCore.dll
+Source/ThirdParty/CubismLibrary/dll/windows/x86_64/Live2DCubismCore.dll
